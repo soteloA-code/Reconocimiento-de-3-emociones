@@ -1,0 +1,2 @@
+datos.json filter=lfs diff=lfs merge=lfs -text
+datos.pth filter=lfs diff=lfs merge=lfs -text
